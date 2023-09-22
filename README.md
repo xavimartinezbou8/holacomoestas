@@ -33,5 +33,5 @@ vbbwcha djhtwjfvbcgwyjwehfbcwnweyrtfwtkuctilytyurdbtyvxu,ifbghkngjxihfddkuvgbifu
         <p> Esto es un codigo en HTML < /p>
     <body>
 </html>
-``
-[link](https://srv.net.fje.edu/net2/#/lanet) "Enlace a la net del cole"
+```
+[link](https://srv.net.fje.edu/net2/#/lanet "Enlace a la net del cole")
